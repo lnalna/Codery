@@ -8,10 +8,10 @@
 .gallery ul li {
   list-style: none;
   float: left;
-  width: 21%;
-  margin: 2% 4% 40px -2%;
+  width: 16%;
+  margin: 4% 4% 4% 0%;
 }
- 
+
 .gallery ul li a img {
   max-width: 100%;
   border: 2px solid #FFFFFF;
