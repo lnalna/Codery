@@ -1,0 +1,23 @@
+.gallery {
+  background-color: black;
+  width: 80%;
+  margin: 100px auto;
+  overflow: hidden;
+}
+
+.gallery ul li {
+  list-style: none;
+  float: left;
+  width: 21%;
+  margin: 2% 4% 40px -2%;
+}
+ 
+.gallery ul li a img {
+  max-width: 100%;
+  border: 2px solid #FFFFFF;
+}
+
+.gallery ul li a img.third {
+  border: 5px solid #00FFFF;
+  margin: -5px;
+}
